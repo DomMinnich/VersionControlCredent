@@ -5,7 +5,31 @@
       "executable_prefix": "TimeApp_",
       "icon": "TimeApp_icon.png",
       "version": "00.01"
+    },
+        {
+      "name": "TimeApp1",
+      "executable_prefix": "TimeApp1_",
+      "icon": "TimeApp1_icon.png",
+      "version": "00.01"
+    },
+        {
+      "name": "TimeApp2",
+      "executable_prefix": "TimeApp2_",
+      "icon": "TimeApp2_icon.png",
+      "version": "00.01"
+    },
+        {
+      "name": "TimeApp3",
+      "executable_prefix": "TimeApp3_",
+      "icon": "TimeApp3_icon.png",
+      "version": "00.01"
+    },
+        {
+      "name": "TimeApp4",
+      "executable_prefix": "TimeApp4_",
+      "icon": "TimeApp4_icon.png",
+      "version": "00.01"
     }
-    
+
   ]
 }
