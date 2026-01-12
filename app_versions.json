@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "TimeApp",
+      "executable_prefix": "TimeApp_",
+      "icon": "TimeApp_icon.png",
+      "version": "00.01"
+    }
+    
+  ]
+}
