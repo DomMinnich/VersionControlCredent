@@ -4,7 +4,7 @@
       "name": "Prometheus",
       "executable_prefix": "Prometheus_",
       "icon": "Prometheus_icon.png",
-      "version": "10.04"
+      "version": "10.05"
     },
         {
       "name": "Shortercuts",
