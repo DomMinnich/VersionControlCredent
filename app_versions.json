@@ -10,16 +10,15 @@
       "name": "Notes That Stick",
       "executable_prefix": "Notes That Stick_",
       "icon": "Notes That Stick_icon.png",
-      "version": "00.02"
+      "version": "00.03"
     },
-        {
+    {
       "name": "Shortercuts",
       "executable_prefix": "Shortercuts_",
       "icon": "Shortercuts_icon.png",
       "version": "00.01"
     },            
-
-            {
+    {
       "name": "QR Code Generator",
       "executable_prefix": "QR Code Generator_",
       "icon": "QR Code Generator_icon.png",
