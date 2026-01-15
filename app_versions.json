@@ -17,7 +17,13 @@
       "executable_prefix": "Shortercuts_",
       "icon": "Shortercuts_icon.png",
       "version": "00.01"
-    },            
+    },      
+    {
+      "name": "Too Many Tabs",
+      "executable_prefix": "Too Many Tabs_",
+      "icon": "Too Many Tabs_icon.png",
+      "version": "00.01"
+    },              
     {
       "name": "QR Code Generator",
       "executable_prefix": "QR Code Generator_",
