@@ -3,31 +3,31 @@
     {
       "name": "Prometheus",
       "executable_prefix": "Prometheus_",
-      "icon": "Prometheus_icon.png",
+      "icon": "Prometheus2_icon.png",
       "version": "10.05"
     },    
     {
       "name": "Notes That Stick",
       "executable_prefix": "Notes That Stick_",
-      "icon": "Notes That Stick_icon.png",
+      "icon": "Notes That Stick2_icon.png",
       "version": "00.03"
     },
     {
       "name": "Shortercuts",
       "executable_prefix": "Shortercuts_",
-      "icon": "Shortercuts_icon.png",
+      "icon": "Shortercuts2_icon.png",
       "version": "00.02"
     },      
     {
       "name": "Too Many Tabs",
       "executable_prefix": "Too Many Tabs_",
-      "icon": "Too Many Tabs_icon.png",
-      "version": "00.01"
+      "icon": "Too Many Tabs2_icon.png",
+      "version": "00.02"
     },              
     {
       "name": "QR Code Generator",
       "executable_prefix": "QR Code Generator_",
-      "icon": "QR Code Generator_icon.png",
+      "icon": "QR Code Generator2_icon.png",
       "version": "00.01"
     }
   ]
