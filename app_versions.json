@@ -16,7 +16,7 @@
       "name": "Shortercuts",
       "executable_prefix": "Shortercuts_",
       "icon": "Shortercuts_icon.png",
-      "version": "00.01"
+      "version": "00.02"
     },      
     {
       "name": "Too Many Tabs",
