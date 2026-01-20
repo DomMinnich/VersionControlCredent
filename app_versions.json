@@ -7,10 +7,10 @@
       "version": "10.05"
     },    
     {
-      "name": "Notes That Stick",
-      "executable_prefix": "Notes That Stick_",
-      "icon": "Notes That Stick2_icon.png",
-      "version": "00.03"
+      "name": "Clip Happens",
+      "executable_prefix": "Chip Happens_",
+      "icon": "Clip Happens_icon.png",
+      "version": "00.01"
     },
     {
       "name": "Shortercuts",
@@ -29,6 +29,12 @@
       "executable_prefix": "QR Code Generator_",
       "icon": "QR Code Generator2_icon.png",
       "version": "00.01"
+    },
+        {
+      "name": "Notes That Stick",
+      "executable_prefix": "Notes That Stick_",
+      "icon": "Notes That Stick2_icon.png",
+      "version": "00.03"
     }
   ]
 }
