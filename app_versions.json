@@ -6,6 +6,12 @@
       "icon": "Prometheus2_icon.png",
       "version": "10.06"
     },    
+        {
+      "name": "One Trillion Tasks",
+      "executable_prefix": "One Trillion Tasks_",
+      "icon": "One Trillion Tasks_icon.png",
+      "version": "00.02"
+    },    
     {
       "name": "Clip Happens",
       "executable_prefix": "Clip Happens_",
@@ -22,7 +28,7 @@
       "name": "Too Many Tabs",
       "executable_prefix": "Too Many Tabs_",
       "icon": "Too Many Tabs2_icon.png",
-      "version": "00.03"
+      "version": "00.04"
     },              
     {
       "name": "QR Code Generator",
