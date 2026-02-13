@@ -4,43 +4,20 @@
       "name": "Prometheus",
       "executable_prefix": "Prometheus_",
       "icon": "Prometheus2_icon.png",
-      "version": "10.06"
-    },    
-        {
-      "name": "One Trillion Tasks",
-      "executable_prefix": "One Trillion Tasks_",
-      "icon": "One Trillion Tasks_icon.png",
-      "version": "00.02"
-    },    
-    {
-      "name": "Clip Happens",
-      "executable_prefix": "Clip Happens_",
-      "icon": "Clip Happens_icon.png",
-      "version": "00.01"
+      "version": "28.06"
     },
     {
-      "name": "Shortercuts",
-      "executable_prefix": "Shortercuts_",
-      "icon": "Shortercuts2_icon.png",
-      "version": "00.02"
-    },      
-    {
-      "name": "Too Many Tabs",
-      "executable_prefix": "Too Many Tabs_",
-      "icon": "Too Many Tabs2_icon.png",
-      "version": "00.04"
-    },              
+      "name": "Overlay",
+      "executable_prefix": "Overlay_",
+      "icon": "Overlay_icon.png",
+      "version": "12.71"
+    },    
+
     {
       "name": "QR Code Generator",
       "executable_prefix": "QR Code Generator_",
       "icon": "QR Code Generator2_icon.png",
       "version": "00.01"
-    },
-        {
-      "name": "Notes That Stick",
-      "executable_prefix": "Notes That Stick_",
-      "icon": "Notes That Stick2_icon.png",
-      "version": "00.03"
     }
   ]
 }
