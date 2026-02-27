@@ -4,7 +4,7 @@
       "name": "Prometheus",
       "executable_prefix": "Prometheus_",
       "icon": "Prometheus3_icon.png",
-      "version": "28.07"
+      "version": "28.08"
     },
     {
       "name": "Overlay",
