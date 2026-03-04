@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "Overlay",
+      "executable_prefix": "Overlay_",
+      "icon": "Overlay_icon.png",
+      "version": "12.80"
+    },    
+    {
+      "name": "QR Code Generator",
+      "executable_prefix": "QR Code Generator_",
+      "icon": "QR Code Generator2_icon.png",
+      "version": "00.01"
+    }
+  ]
+}
