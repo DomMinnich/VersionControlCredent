@@ -6,6 +6,12 @@
       "icon": "Overlay_icon.png",
       "version": "12.80"
     },    
+      {
+      "name": "Money Flow",
+      "executable_prefix": "Money Flow_",
+      "icon": "Money Flow_icon.png",
+      "version": "10.91"
+    },
     {
       "name": "QR Code Generator",
       "executable_prefix": "QR Code Generator_",
