@@ -4,14 +4,14 @@
       "name": "Prometheus",
       "executable_prefix": "Prometheus_",
       "icon": "Prometheus3_icon.png",
-      "version": "29.01"
+      "version": "29.02"
     },
     {
       "name": "Overlay",
       "executable_prefix": "Overlay_",
       "icon": "Overlay2_icon.png",
       "version": "16.10"
-    },    
+    },
 
     {
       "name": "QR Code Generator",
